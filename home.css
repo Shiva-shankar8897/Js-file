@@ -1,0 +1,94 @@
+-body{background-color: #2e3094;}
+.d-block{height:500px;
+}
+#quee{
+    margin: 12px;
+    color: #fb9f18;
+    position: relative;
+    top: 34%;
+}
+.mb-0 {
+    height: 80;
+    width: 150;
+    margin-left: -9px;
+}  
+@media (min-width: 576px){
+.navbar-expand-sm .navbar-nav {
+    flex-direction: row;
+    margin-right: -50px;
+}
+}
+.navbar-nav .nav-link.active{
+    font-size: 16px;
+    padding-right: 10px;
+}
+.fs-5 {
+    font-size: -2.75rem!important;
+}
+.dropdown-item:hover {
+    background-color: #00b7c7;
+}
+
+    /*--footer--*/
+@media (min-width: 1200px){
+.containers, .containers-lg, .containers-md, .containers-sm, .containers-xl {
+    max-width: 1405px}
+}
+.row1{width:100%;
+    height:500px;
+    background-color:#2e3094;
+    }
+h1{text-align: center;
+padding-top: 15px;}
+.card{width:250px;
+height:300px;
+margin-left: 13px;
+margin-top: 25px;
+display:inline-block;}
+
+.row2{background-image: url(h5.avif);
+    background-size: 100%;
+height:500px;}
+table{width: 50%;
+height:250px;
+padding-top: 20px;}
+
+td{text-align: center;
+line-height: 20px;
+font-size: 25px;
+cursor: pointer;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+td:hover{background-color: #2e3094;}
+.container mt-3{width:100%;
+    height:600px;
+    display:flex;
+    }
+.card-body img{height:280px;
+    width:100%;
+    }
+.container-fluid{width:100%;
+        height:800px;
+        padding-top: 20px;
+        background-image: url("a5.avif");
+        background-size: cover;}
+button{background-color:rgb(38, 210, 216);
+            border-radius: 7px;
+        }
+#btn{margin-left:30px;}
+        
+.box4{width:80%;
+    height:420px;
+    margin-top: 30px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 22px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 10px;
+    color:rgb(12, 12, 12);
+    }
+
+    /*--footer--*/
+    @media (min-width: 1200px){
+        .containers, .containers-lg, .containers-md, .containers-sm, .containers-xl {
+            max-width: 1405px}
+        }
